@@ -1,0 +1,15 @@
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\bin\Debug\net6.0\Fundamentos.exe
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\bin\Debug\net6.0\Fundamentos.deps.json
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\bin\Debug\net6.0\Fundamentos.runtimeconfig.json
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\bin\Debug\net6.0\Fundamentos.dll
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\bin\Debug\net6.0\Fundamentos.pdb
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.AssemblyReference.cache
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.dll
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
+D:\Desenvolvimento\aprendizado\Dio-Pottencial\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
