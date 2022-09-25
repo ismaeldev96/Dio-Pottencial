@@ -1,15 +1,28 @@
 ﻿using Fundamentos.Models;
 
-Calculadora calc = new Calculadora();
+int numero = 10;
 
-calc.Somar(10, 5);
-calc.Subtrair(10, 5);
-calc.Multiplicar(10, 5);
-calc.Dividir(10, 5);
-calc.Potencia(10, 5);
-calc.Seno(30);
-calc.Tangente(30);
-calc.Coseno(30);
+Console.WriteLine(numero);
+
+Console.WriteLine("Incrementando mais 1");
+numero++;
+
+Console.WriteLine(numero);
+
+Console.WriteLine("Decrementando 1");
+numero--;
+
+Console.WriteLine(numero);
+// Calculadora calc = new Calculadora();
+
+// calc.Somar(10, 5);
+// calc.Subtrair(10, 5);
+// calc.Multiplicar(10, 5);
+// calc.Dividir(10, 5);
+// calc.Potencia(10, 5);
+// calc.Seno(30);
+// calc.Tangente(30);
+// calc.Coseno(30);
 
 // OPERADOR &&
 // Estudante aluno = new Estudante();
