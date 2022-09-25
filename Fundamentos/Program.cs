@@ -1,4 +1,21 @@
 ﻿using Fundamentos.Models;
+//OPERADORES CONDICIONAIS 
+
+int quantidadeEstoque = 10;
+int quantidadeCompra = 4;
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEstoque >= quantidadeCompra;
+
+Console.WriteLine($"Quantidade do estoque: {quantidadeEstoque}");
+Console.WriteLine($"Quantidade da venda: {quantidadeCompra}");
+Console.WriteLine($"é possivel realizar a venda: {possivelVenda}");
+
+if( quantidadeCompra == 0) {
+    Console.WriteLine("venda Inválida!");
+}else if(possivelVenda){
+    Console.WriteLine("Venda Realizada com Sucesso!");
+}else{
+    Console.WriteLine("Desculpe. Não temos essa quantidade em Estoque!");
+}
 
 // // TIPOS DE DADOS
 // string nome = "ismael"; // a string sempre atribuida pelo valor entre aspas 
