@@ -7,7 +7,9 @@ calc.Subtrair(10, 5);
 calc.Multiplicar(10, 5);
 calc.Dividir(10, 5);
 calc.Potencia(10, 5);
-
+calc.Seno(30);
+calc.Tangente(30);
+calc.Coseno(30);
 
 // OPERADOR &&
 // Estudante aluno = new Estudante();
