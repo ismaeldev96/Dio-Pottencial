@@ -1,4 +1,14 @@
 ﻿using Fundamentos.Models;
+
+Calculadora calc = new Calculadora();
+
+calc.Somar(10, 5);
+calc.Subtrair(10, 5);
+calc.Multiplicar(10, 5);
+calc.Dividir(10, 5);
+calc.Potencia(10, 5);
+
+
 // OPERADOR &&
 // Estudante aluno = new Estudante();
 // Console.WriteLine("Digite o nome do aluno:");
